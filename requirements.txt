@@ -1,0 +1,4 @@
+streamlit
+pandas
+nest_asyncio
+telethon
