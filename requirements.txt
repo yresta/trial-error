@@ -1,4 +1,11 @@
 streamlit
-pandas
-nest_asyncio
 telethon
+pandas
+numpy
+nest_asyncio
+scikit-learn
+nltk
+keybert
+sentence-transformers
+hdbscan
+umap-learn
